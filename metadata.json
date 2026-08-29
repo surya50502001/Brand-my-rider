@@ -1,0 +1,6 @@
+{
+  "name": "Ride The Moment",
+  "description": "A premium cinematic 3D motorcycle experience. Explore helmets in a frozen cornering moment on a mountain S-bend. Features live 3D web scene and helmet auctions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
